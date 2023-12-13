@@ -13,7 +13,7 @@ This project is designed to be executed on Google Colab and involves the followi
 - 'mithib.zip': MIT-BIH dataset
 
 1. Upload the 'ECG_RL.ipynb' notebook to Google Colab.
-2. Upload and unzip the 'mithib.zip data file in Colab. Make sure to modify the data file path in the notebook accordingly. 
+2. Upload and unzip the 'mithib.zip' data file in Colab. Make sure to modify the data file path in the notebook accordingly. 
 
 ```\python
 ! unzip /content/drive/MyDrive/RL_project/mitbih.zip
