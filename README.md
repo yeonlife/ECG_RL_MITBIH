@@ -35,8 +35,8 @@ ecg100
 
 ## Experiment Results
 
-! [[patient 100](images/patient%20100%20threshold%202.5%20graph.png)]
-! [[patient 101](images/patient%20101%20threshold%202.5%20graph.png)]
-! [[patient 114](images/patient%20114%20threshold%202.5%20graph.png)]
-! [[patient 115](images/patient%20115%20threshold%202.5%20graph.png)]
-! [[patient 103](images/patient%20103%20threshold%202.5%20graph.png)]
+![patient 100](images/patient%20100%20threshold%202.5%20graph.png)
+![patient 101](images/patient%20101%20threshold%202.5%20graph.png)
+![patient 114](images/patient%20114%20threshold%202.5%20graph.png)
+![patient 115](images/patient%20115%20threshold%202.5%20graph.png)
+![patient 103](images/patient%20103%20threshold%202.5%20graph.png)
