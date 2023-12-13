@@ -14,16 +14,17 @@ This project is designed to be executed on Google Colab and involves the followi
 
 1. Upload the 'ECG_RL.ipynb' notebook to Google Colab.
 2. Upload and unzip the 'mithib.zip data file in Colab. Make sure to modify the data file path in the notebook accordingly. 
-'''\python
+
+```\python
 ! unzip /content/drive/MyDrive/RL_project/mitbih.zip
-'''
+```
 3. Open the notebook and execute the cells. To examine data for a specific patient, modify the file name in the following cell:
 
-'''\python
+```\python
 patient_100_file = "/content/103.csv"
 ecg100 = pd.read_csv(patient_100_file, index_col=0)
 ecg100
-'''
+```
 
 ## Methodology
 
@@ -34,8 +35,8 @@ ecg100
 
 ## Experiment Results
 
-[[patient 100](images/patient%20100%20threshold%202.5%20graph.png)]
-[[patient 101](images/patient%20101%20threshold%202.5%20graph.png)]
-[[patient 114](images/patient%20114%20threshold%202.5%20graph.png)]
-[[patient 115](images/patient%20115%20threshold%202.5%20graph.png)]
-[[patient 103](images/patient%20103%20threshold%202.5%20graph.png)]
+! [[patient 100](images/patient%20100%20threshold%202.5%20graph.png)]
+! [[patient 101](images/patient%20101%20threshold%202.5%20graph.png)]
+! [[patient 114](images/patient%20114%20threshold%202.5%20graph.png)]
+! [[patient 115](images/patient%20115%20threshold%202.5%20graph.png)]
+! [[patient 103](images/patient%20103%20threshold%202.5%20graph.png)]
